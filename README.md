@@ -1,0 +1,2 @@
+### Hexlet tests and linter status:
+[![Actions Status](https://github.com/Voke16Bit/layout-designer-project-59/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Voke16Bit/layout-designer-project-59/actions)
